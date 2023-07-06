@@ -3,6 +3,13 @@ dtkgui (6.0.2) unstable; urgency=medium
   [ Astrea ]
   * UNRELEASED
 
+ -- Deepin Packages Builder <packages@deepin.org>  Thu, 06 Jul 2023 16:26:37 +0800
+
+dtkgui (6.0.2) unstable; urgency=medium
+
+  [ Astrea ]
+  * UNRELEASED
+
  -- Deepin Packages Builder <packages@deepin.org>  Thu, 06 Jul 2023 16:22:20 +0800
 
 dtkgui (6.0.2) unstable; urgency=medium
